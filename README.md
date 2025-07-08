@@ -1,9 +1,9 @@
 
 # Hi there 👋 I'm Gowri
 
-🎓 CS Student at SJCET Palai 
-💻 Passionate about Data Science and Web Development 
-📫 How to reach me: krishnagowri936@gmail.com
+🎓 CS Student at SJCET Palai <br>
+💻 Passionate about Data Science and Web Development <br>
+📫 How to reach me: krishnagowri936@gmail.com <br>
 <!--
 **gowrikrishna12/gowrikrishna12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
